@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: wangjing_diana@163.com
 description: "和自己对话"
 keyword: "Jing静说, Jingtalk, 完全不知道为什么, film, game, book, audio"
-url: "http://jingtalk.github.io"          # your host, for absolute URL
+url: "http://wangjingnote.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wangjingnote/wangjingnote.github.io.git" # you code repository
 
